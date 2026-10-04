@@ -1,0 +1,7 @@
+# PyTorch: install separately FIRST (GTX 1070 needs a CUDA 12.6 build, see README)
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+pillow
